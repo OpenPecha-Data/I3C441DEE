@@ -1,0 +1,25 @@
+id: I3C441DEE
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:11:37.827080'
+last_modified: '2022-06-15T20:11:37.827086'
+parser: null
+source_metadata:
+  title: Śāntigarbha
+  language: bo
+  description: 'Texts by and about Śāntigarbha (zhi ba''i snying po), renowned as
+    one of the eight vidyādharas of India:'
+  volume:
+    fCC0B:
+      title: A Praise to the Lotus King
+      base_file: fCC0B.txt
+      order: 1
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
